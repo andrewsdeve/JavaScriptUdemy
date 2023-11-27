@@ -1,0 +1,18 @@
+
+
+div p{
+    color: green;
+}
+
+
+ol > li {
+    font-weight: bold;
+}
+
+h2 ~ h3 {
+    background-color: lightskyblue;
+}
+
+div P[align="left"]:hover{
+    background-color: gold;
+}
